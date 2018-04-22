@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1524398603 source:c:\users\elliot aldernson\codeblock-workspace\dnd_dice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+
