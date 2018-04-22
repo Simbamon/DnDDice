@@ -142,7 +142,7 @@ void DiceAverage(){
 
     average = (float)total / (float)rollNum;
 
-    printf("Your average is: %.1f\n", average);
+    printf("Your average is: %.1f\n\n", average);
 
 
 
