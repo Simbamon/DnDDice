@@ -1,6 +1,6 @@
 # DnDDice
 
-Made C dice program for DnD(Dungeons & Dragons) which use 20-sided dice.
+Made C dice program for DnD(Dungeons & Dragons) which use 20-sided dice.</br>
 Added functions for users under different situation.
 
 ## Application
